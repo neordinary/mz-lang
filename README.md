@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneordinary%2Fmz-lang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 mz랭은 유튜브 컴공선배 팀과 장안의 화제인 [엄랭](https://github.com/rycont/umjunsik-lang)의 킹갓제너럴대준식 개발자 [@RyCont](https://github.com/rycont)와 함께 작업한 언어입니다.
-(만들고 나니 mz랭이라는 이름이 안 어울리는 것 같습니다. [유튜브 영상 댓글]로 이름 추천 받습니다.)
+</br> (만들고 나니 mz랭이라는 이름이 안 어울리는 것 같습니다. [유튜브 영상 댓글]로 이름 추천 받습니다.)
 
 [0️⃣ 유튜브 컴공선배 영상 보고 구독하기](https://www.youtube.com/@comgongbro)
 
@@ -12,7 +12,7 @@ mz랭은 유튜브 컴공선배 팀과 장안의 화제인 [엄랭](https://gith
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 엄랭을 모티브로한 MZ랭입니다. https://github.com/rycont/umjunsik-lang
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+</br> Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -33,7 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 # 문법
 
 개어렵습니다.
-모든 프로그램은 "인녕하세요."로 시작하며, 항상 "드림."으로 끝나야 합니다.
+</br>모든 프로그램은 "인녕하세요."로 시작하며, 항상 "드림."으로 끝나야 합니다.
 
 ## 자료형
 
@@ -111,7 +111,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ### 넵, 감사합니다.
 
-콘솔에 문자를 출력합니다. `넵, `(띄어쓰기 주의)과 ` 감사합니다.`(띄어쓰기 주의)사이에 오는 정수를 유니코드 문자로 변환하여 콘솔에 출력합니다. `넵, `과 ` 감사합니다.`사이에 정수가 주어지지 않으면 개행합니다(`식ㅋ` => `\n`)
+콘솔에 문자를 출력합니다. `넵, `(띄어쓰기 주의)과 ` 감사합니다.`(띄어쓰기 주의)사이에 오는 정수를 유니코드 문자로 변환하여 콘솔에 출력합니다. 
+</br>`넵, `과 ` 감사합니다.`사이에 정수가 주어지지 않으면 개행합니다(`식ㅋ` => `\n`)
 
 ```tsx
 넵, ^^^^^^^^^^^@^^@^^@^^ 감사합니다. => 콘솔에 X 출력
@@ -125,7 +126,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ### 담당자 연결해드리겠습니다.
 
-`담당자 연결해드리겠습니다. `(띄어쓰기 주의) 뒤에 오는 정수번째 줄로 이동합니다. `담당자 연결해드리겠습니다. ^^ => 2번째 줄(글자)로 이동`. 원라인코드의 경우에는 `/`로 분리된 코드단위로 카운트하여 이동합니다.
+`담당자 연결해드리겠습니다. `(띄어쓰기 주의) 뒤에 오는 정수번째 줄로 이동합니다. `담당자 연결해드리겠습니다. ^^ => 2번째 줄(글자)로 이동`. 
+</br>원라인코드의 경우에는 `/`로 분리된 코드단위로 카운트하여 이동합니다.
 
 ### 감사합니다. 
 
