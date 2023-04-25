@@ -9,7 +9,7 @@ mz랭은 유튜브 컴공선배 팀과 장안의 화제인 [엄랭](https://gith
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 엄랭을 모티브로한 MZ랭입니다. https://github.com/rycont/umjunsik-lang
 </br> Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -21,6 +21,7 @@ mz랭은 유튜브 컴공선배 팀과 장안의 화제인 [엄랭](https://gith
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/happbob"><img src="https://avatars.githubusercontent.com/u/54854764?v=4?s=100" width="100px;" alt="Minseo Lim"/><br /><sub><b>Minseo Lim</b></sub></a><br /><a href="https://github.com/neordinary/mz-lang/commits?author=happbob" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bento.me/3"><img src="https://avatars.githubusercontent.com/u/35295182?v=4?s=100" width="100px;" alt="정한"/><br /><sub><b>정한</b></sub></a><br /><a href="#ideas-RyCont" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
