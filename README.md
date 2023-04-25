@@ -22,6 +22,7 @@ mz랭은 유튜브 컴공선배 팀과 장안의 화제인 [엄랭](https://gith
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/happbob"><img src="https://avatars.githubusercontent.com/u/54854764?v=4?s=100" width="100px;" alt="Minseo Lim"/><br /><sub><b>Minseo Lim</b></sub></a><br /><a href="https://github.com/neordinary/mz-lang/commits?author=happbob" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.youtube.com/@comgongbro"><img src="https://avatars.githubusercontent.com/u/16649567?v=4?s=100" width="100px;" alt="JerryJung"/><br /><sub><b>JerryJung</b></sub></a><br /><a href="#ideas-jerryjungwh" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bento.me/3"><img src="https://avatars.githubusercontent.com/u/35295182?v=4?s=100" width="100px;" alt="정한"/><br /><sub><b>정한</b></sub></a><br /><a href="#ideas-RyCont" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
